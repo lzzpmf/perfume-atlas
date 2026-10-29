@@ -1,0 +1,7 @@
+{
+  "date": "2026-10-28",
+  "tool": "image_gen.imagegen",
+  "transparent_background": true,
+  "prompt": "Use case: scientific-educational. Create a premium contemporary botanical atlas illustration, standalone PNG with REAL transparent alpha background, for later layout in vertical 3:4 cards at 2880x3840. Represent selected published perfume notes: a graceful branching lavandin sprig with narrow gray-green leaves and violet flower spikes rising upper left; a separate patchouli sprig with broad softly serrated textured green leaves on the right; three pale green ribbed cardamom pods, a few black peppercorns, two dark slender cured vanilla pods and two wrinkled dark brown elongated tonka beans arranged below. All specimens separate and recognizable, not grafted together. Do not depict incense literally: no smoke, burning objects or unidentified resin. Airy asymmetrical herbarium composition with 8 percent transparent margins, whole subjects and fine stems preserved. Naturalistic fine-art botanical painting, restrained microtexture, diffuse soft light, sage and deep green, dusty violet, warm brown and charcoal. No background, floor, paper, checkerboard, cast-floor shadow, text, label, logo, bottle, trophy, gold, crystals or extra plants. High detail, clean edges, transparent negative space. These are visual representations of selected olfactory notes, not proof of actual ingredients or botanical species used in a perfume.",
+  "selectedAsset": "output/images/invictus-victory-elixir-transparent.png"
+}

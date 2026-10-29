@@ -1,0 +1,88 @@
+{
+  "slug": "nome-do-aroma",
+  "collection_code": "BOA-000",
+  "name": "Nome comum",
+  "botanical_or_technical_name": "Nome botânico ou designação técnica",
+  "type": "natural|molecule|accord",
+  "source": {
+    "origin": "",
+    "plant_part": "",
+    "extraction_method": "",
+    "notes": ""
+  },
+  "olfactory_profile": {
+    "primary_family": "",
+    "secondary_families": [],
+    "facets": [],
+    "texture": [],
+    "perceived_temperature": "",
+    "perceived_volatility": "",
+    "diffusion": "",
+    "perceived_substantivity": ""
+  },
+  "signature_molecules": [
+    {
+      "name": "",
+      "olfactory_role": ""
+    }
+  ],
+  "formula_role": {
+    "summary": "",
+    "functions": []
+  },
+  "pairings": [
+    {
+      "material": "",
+      "reason": ""
+    }
+  ],
+  "sensory_experience": {
+    "summary": "",
+    "associations": []
+  },
+  "applications": [],
+  "if_it_were": {
+    "color": "",
+    "time_of_day": "",
+    "texture": "",
+    "place": "",
+    "atmosphere": ""
+  },
+  "curiosity": "",
+  "safety": {
+    "editorial_note": "",
+    "requires_specific_caution": false
+  },
+  "visual_direction": {
+    "background": "transparent",
+    "image_format": "png",
+    "image_aspect_ratio": "livre, conforme o assunto",
+    "image_width_px": null,
+    "image_height_px": null,
+    "image_resolution_reference": "Resolução suficiente para aplicação no card final",
+    "card_aspect_ratio": "3:4",
+    "card_width_px": 2880,
+    "card_height_px": 3840,
+    "transparent_background": true,
+    "illustration_path": "output/images/<slug>-transparent.png",
+    "card_background": "marfim",
+    "logo_path": "references/logoFullore.png",
+    "logo_required_for_final": true,
+    "palette": [],
+    "hero_subject": "",
+    "lighting": "",
+    "negative_space": "",
+    "molecular_detail": "",
+    "card_resolution_reference": "4K: lado maior de 3840 px"
+  },
+  "card_copy": {
+    "descriptors": [],
+    "profile": "",
+    "signature": "",
+    "pairings": "",
+    "atmosphere": "",
+    "applications": "",
+    "curiosity": ""
+  },
+  "editorial_refs": []
+}

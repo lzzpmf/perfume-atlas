@@ -1,0 +1,7 @@
+{
+  "date": "2026-10-28",
+  "tool": "image_gen.imagegen",
+  "transparent_background": true,
+  "prompt": "Use case: scientific-educational. Create a refined contemporary perfume botanical atlas illustration as a PNG with REAL transparent alpha background for later 2880x3840 vertical 3:4 cards. Selected olfactory-note symbols: one long complete dry cured tobacco leaf, warm brown with beautiful branching veins, curved upright on right; a slender separate lavender sprig with narrow gray-green leaves and small violet flowers on left; two dark vanilla pods sweeping across lower center; a restrained scatter of black peppercorns, one small cinnamon bark curl and a few fine red saffron threads beneath. Each specimen separate and botanically recognizable, no hybrid plants. These symbolize selected published notes, not actual ingredient proof. No cistus plant because species not established. Airy asymmetric contemporary herbarium naturalism, painterly fine-art microtexture, soft diffuse light, restrained warm brown, charcoal, sage, dusty violet and saffron red. Whole subjects, generous 8 percent transparent margins on every side, clean fine edges, no clipping. High detail. Background fully transparent: no floor, paper, colored backdrop, checkerboard or cast-floor shadow. No text, logos, perfume bottle, grenade, flames, smoke, cigarettes, cigars, crystals, gold or extra leaves. Leave transparent negative space around all specimens for separate editorial layout.",
+  "selectedAsset": "output/images/spicebomb-extreme-transparent.png"
+}

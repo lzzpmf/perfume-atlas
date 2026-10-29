@@ -1,0 +1,2213 @@
+{
+  "edition_id": "atlas-anual-01",
+  "version": "0.1.0",
+  "status": "documentary_structure",
+  "audience": "adultos iniciantes",
+  "formats": [
+    "pdf",
+    "epub"
+  ],
+  "calendar_convention": "Setembro a agosto; estações editoriais por meses inteiros, sem equivalência com datas astronômicas ou todos os climas brasileiros.",
+  "seasons": [
+    {
+      "id": "primavera",
+      "name": "Primavera",
+      "months": [
+        "setembro",
+        "outubro",
+        "novembro"
+      ]
+    },
+    {
+      "id": "verao",
+      "name": "Verão",
+      "months": [
+        "dezembro",
+        "janeiro",
+        "fevereiro"
+      ]
+    },
+    {
+      "id": "outono",
+      "name": "Outono",
+      "months": [
+        "marco",
+        "abril",
+        "maio"
+      ]
+    },
+    {
+      "id": "inverno",
+      "name": "Inverno",
+      "months": [
+        "junho",
+        "julho",
+        "agosto"
+      ]
+    }
+  ],
+  "months": [
+    {
+      "id": "setembro",
+      "name": "Setembro",
+      "season": "primavera",
+      "position": 1,
+      "calendar_month": 9
+    },
+    {
+      "id": "outubro",
+      "name": "Outubro",
+      "season": "primavera",
+      "position": 2,
+      "calendar_month": 10
+    },
+    {
+      "id": "novembro",
+      "name": "Novembro",
+      "season": "primavera",
+      "position": 3,
+      "calendar_month": 11
+    },
+    {
+      "id": "dezembro",
+      "name": "Dezembro",
+      "season": "verao",
+      "position": 4,
+      "calendar_month": 12
+    },
+    {
+      "id": "janeiro",
+      "name": "Janeiro",
+      "season": "verao",
+      "position": 5,
+      "calendar_month": 1
+    },
+    {
+      "id": "fevereiro",
+      "name": "Fevereiro",
+      "season": "verao",
+      "position": 6,
+      "calendar_month": 2
+    },
+    {
+      "id": "marco",
+      "name": "Março",
+      "season": "outono",
+      "position": 7,
+      "calendar_month": 3
+    },
+    {
+      "id": "abril",
+      "name": "Abril",
+      "season": "outono",
+      "position": 8,
+      "calendar_month": 4
+    },
+    {
+      "id": "maio",
+      "name": "Maio",
+      "season": "outono",
+      "position": 9,
+      "calendar_month": 5
+    },
+    {
+      "id": "junho",
+      "name": "Junho",
+      "season": "inverno",
+      "position": 10,
+      "calendar_month": 6
+    },
+    {
+      "id": "julho",
+      "name": "Julho",
+      "season": "inverno",
+      "position": 11,
+      "calendar_month": 7
+    },
+    {
+      "id": "agosto",
+      "name": "Agosto",
+      "season": "inverno",
+      "position": 12,
+      "calendar_month": 8
+    }
+  ],
+  "encounters": [
+    {
+      "id": "encontro-001",
+      "type": "aroma",
+      "position": 1,
+      "season": "primavera",
+      "month": "setembro",
+      "month_position": 1,
+      "aroma_ref": {
+        "slug": "neroli",
+        "collection_code": "BOA-004",
+        "profile_path": "aromas/neroli.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-001",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-002",
+      "type": "aroma",
+      "position": 2,
+      "season": "primavera",
+      "month": "setembro",
+      "month_position": 2,
+      "aroma_ref": {
+        "slug": "rosa-damascena",
+        "collection_code": "BOA-005",
+        "profile_path": "aromas/rosa-damascena.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-002",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-003",
+      "type": "aroma",
+      "position": 3,
+      "season": "primavera",
+      "month": "setembro",
+      "month_position": 3,
+      "aroma_ref": {
+        "slug": "jasmim-sambac",
+        "collection_code": "BOA-006",
+        "profile_path": "aromas/jasmim-sambac.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-003",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-004",
+      "type": "aroma",
+      "position": 4,
+      "season": "primavera",
+      "month": "setembro",
+      "month_position": 4,
+      "aroma_ref": {
+        "slug": "mimosa",
+        "collection_code": "BOA-007",
+        "profile_path": "aromas/mimosa.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-004",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-005",
+      "type": "aroma",
+      "position": 5,
+      "season": "primavera",
+      "month": "outubro",
+      "month_position": 1,
+      "aroma_ref": {
+        "slug": "folha-de-violeta",
+        "collection_code": "BOA-008",
+        "profile_path": "aromas/folha-de-violeta.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-005",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-006",
+      "type": "aroma",
+      "position": 6,
+      "season": "primavera",
+      "month": "outubro",
+      "month_position": 2,
+      "aroma_ref": {
+        "slug": "petitgrain-absoluto",
+        "collection_code": "BOA-009",
+        "profile_path": "aromas/petitgrain-absoluto.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-006",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-007",
+      "type": "aroma",
+      "position": 7,
+      "season": "primavera",
+      "month": "outubro",
+      "month_position": 3,
+      "aroma_ref": {
+        "slug": "geranio-rosado",
+        "collection_code": "BOA-010",
+        "profile_path": "aromas/geranio-rosado.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-007",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-008",
+      "type": "aroma",
+      "position": 8,
+      "season": "primavera",
+      "month": "outubro",
+      "month_position": 4,
+      "aroma_ref": {
+        "slug": "palmarosa",
+        "collection_code": "BOA-011",
+        "profile_path": "aromas/palmarosa.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-008",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-009",
+      "type": "aroma",
+      "position": 9,
+      "season": "primavera",
+      "month": "novembro",
+      "month_position": 1,
+      "aroma_ref": {
+        "slug": "ylang-ylang-completo",
+        "collection_code": "BOA-012",
+        "profile_path": "aromas/ylang-ylang-completo.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-009",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-010",
+      "type": "aroma",
+      "position": 10,
+      "season": "primavera",
+      "month": "novembro",
+      "month_position": 2,
+      "aroma_ref": {
+        "slug": "mandarina-verde",
+        "collection_code": "BOA-013",
+        "profile_path": "aromas/mandarina-verde.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-010",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-011",
+      "type": "aroma",
+      "position": 11,
+      "season": "primavera",
+      "month": "novembro",
+      "month_position": 3,
+      "aroma_ref": {
+        "slug": "grapefruit",
+        "collection_code": "BOA-014",
+        "profile_path": "aromas/grapefruit.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-011",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-012",
+      "type": "aroma",
+      "position": 12,
+      "season": "primavera",
+      "month": "novembro",
+      "month_position": 4,
+      "aroma_ref": {
+        "slug": "limao-siciliano",
+        "collection_code": "BOA-015",
+        "profile_path": "aromas/limao-siciliano.md"
+      },
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-012",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "integracao-primavera",
+      "type": "integration",
+      "position": 13,
+      "season": "primavera",
+      "month": null,
+      "month_position": null,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "integracao-primavera",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-013",
+      "type": "aroma",
+      "position": 14,
+      "season": "verao",
+      "month": "dezembro",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-013",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-014",
+      "type": "aroma",
+      "position": 15,
+      "season": "verao",
+      "month": "dezembro",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-014",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-015",
+      "type": "aroma",
+      "position": 16,
+      "season": "verao",
+      "month": "dezembro",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-015",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-016",
+      "type": "aroma",
+      "position": 17,
+      "season": "verao",
+      "month": "dezembro",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-016",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-017",
+      "type": "aroma",
+      "position": 18,
+      "season": "verao",
+      "month": "janeiro",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-017",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-018",
+      "type": "aroma",
+      "position": 19,
+      "season": "verao",
+      "month": "janeiro",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-018",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-019",
+      "type": "aroma",
+      "position": 20,
+      "season": "verao",
+      "month": "janeiro",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-019",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-020",
+      "type": "aroma",
+      "position": 21,
+      "season": "verao",
+      "month": "janeiro",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-020",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-021",
+      "type": "aroma",
+      "position": 22,
+      "season": "verao",
+      "month": "fevereiro",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-021",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-022",
+      "type": "aroma",
+      "position": 23,
+      "season": "verao",
+      "month": "fevereiro",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-022",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-023",
+      "type": "aroma",
+      "position": 24,
+      "season": "verao",
+      "month": "fevereiro",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-023",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-024",
+      "type": "aroma",
+      "position": 25,
+      "season": "verao",
+      "month": "fevereiro",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-024",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "integracao-verao",
+      "type": "integration",
+      "position": 26,
+      "season": "verao",
+      "month": null,
+      "month_position": null,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "integracao-verao",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-025",
+      "type": "aroma",
+      "position": 27,
+      "season": "outono",
+      "month": "marco",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-025",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-026",
+      "type": "aroma",
+      "position": 28,
+      "season": "outono",
+      "month": "marco",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-026",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-027",
+      "type": "aroma",
+      "position": 29,
+      "season": "outono",
+      "month": "marco",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-027",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-028",
+      "type": "aroma",
+      "position": 30,
+      "season": "outono",
+      "month": "marco",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-028",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-029",
+      "type": "aroma",
+      "position": 31,
+      "season": "outono",
+      "month": "abril",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-029",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-030",
+      "type": "aroma",
+      "position": 32,
+      "season": "outono",
+      "month": "abril",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-030",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-031",
+      "type": "aroma",
+      "position": 33,
+      "season": "outono",
+      "month": "abril",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-031",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-032",
+      "type": "aroma",
+      "position": 34,
+      "season": "outono",
+      "month": "abril",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-032",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-033",
+      "type": "aroma",
+      "position": 35,
+      "season": "outono",
+      "month": "maio",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-033",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-034",
+      "type": "aroma",
+      "position": 36,
+      "season": "outono",
+      "month": "maio",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-034",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-035",
+      "type": "aroma",
+      "position": 37,
+      "season": "outono",
+      "month": "maio",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-035",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-036",
+      "type": "aroma",
+      "position": 38,
+      "season": "outono",
+      "month": "maio",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-036",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "integracao-outono",
+      "type": "integration",
+      "position": 39,
+      "season": "outono",
+      "month": null,
+      "month_position": null,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "integracao-outono",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    },
+    {
+      "id": "encontro-037",
+      "type": "aroma",
+      "position": 40,
+      "season": "inverno",
+      "month": "junho",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-037",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-038",
+      "type": "aroma",
+      "position": 41,
+      "season": "inverno",
+      "month": "junho",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-038",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-039",
+      "type": "aroma",
+      "position": 42,
+      "season": "inverno",
+      "month": "junho",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-039",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-040",
+      "type": "aroma",
+      "position": 43,
+      "season": "inverno",
+      "month": "junho",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-040",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-041",
+      "type": "aroma",
+      "position": 44,
+      "season": "inverno",
+      "month": "julho",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-041",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-042",
+      "type": "aroma",
+      "position": 45,
+      "season": "inverno",
+      "month": "julho",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-042",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-043",
+      "type": "aroma",
+      "position": 46,
+      "season": "inverno",
+      "month": "julho",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-043",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-044",
+      "type": "aroma",
+      "position": 47,
+      "season": "inverno",
+      "month": "julho",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-044",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-045",
+      "type": "aroma",
+      "position": 48,
+      "season": "inverno",
+      "month": "agosto",
+      "month_position": 1,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-045",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-046",
+      "type": "aroma",
+      "position": 49,
+      "season": "inverno",
+      "month": "agosto",
+      "month_position": 2,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-046",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-047",
+      "type": "aroma",
+      "position": 50,
+      "season": "inverno",
+      "month": "agosto",
+      "month_position": 3,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-047",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "encontro-048",
+      "type": "aroma",
+      "position": 51,
+      "season": "inverno",
+      "month": "agosto",
+      "month_position": 4,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "encontro-048",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_curation"
+    },
+    {
+      "id": "integracao-inverno",
+      "type": "integration",
+      "position": 52,
+      "season": "inverno",
+      "month": null,
+      "month_position": null,
+      "aroma_ref": null,
+      "content_ref": null,
+      "practice_ref": null,
+      "audio": {
+        "id": "integracao-inverno",
+        "status": "pending",
+        "script_ref": null,
+        "transcript_ref": null,
+        "file_ref": null,
+        "version": null,
+        "credits": {
+          "author": null,
+          "narrator": null,
+          "music": null
+        },
+        "rights": {
+          "voice_license_ref": null,
+          "music_license_ref": null,
+          "exclusive_rights_confirmed": false
+        },
+        "publication": {
+          "landing_page_url": null,
+          "readable_address": null,
+          "qr_ref": null,
+          "url_validated": false,
+          "validated_at": null,
+          "validated_by": null,
+          "published_at": null
+        }
+      },
+      "editorial_status": "pending_writing"
+    }
+  ]
+}

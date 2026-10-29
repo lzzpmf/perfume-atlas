@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "alecrim",
+    "asset": "output/images/alecrim-transparent.png",
+    "method": "built-in image_gen",
+    "transparent_background": true,
+    "prompt_reference": "output/prompts/alecrim-image-prompt.md"
+  }
+]

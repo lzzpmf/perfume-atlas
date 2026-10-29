@@ -1,0 +1,17 @@
+# Dependencias locais (restaurar com npm ci)
+node_modules/
+
+# Credenciais e configuracoes locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Pacotes derivados dos PNGs, mantidos apenas localmente
+output/cards/finais/**/*.zip
+
+# Temporarios
+*.log
+Thumbs.db
+.DS_Store

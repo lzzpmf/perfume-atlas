@@ -1,0 +1,37 @@
+{
+  "tool": "built-in imagegen",
+  "images": [
+    {
+      "file": "../images/lavanda-01-essencia.png",
+      "width": 941,
+      "height": 1672,
+      "prompt": "Use case: scientific-educational. Generate one premium botanical olfactory atlas illustration, portrait exact 9:16, ideally 1080x1920. Contemporary naturalistic fine watercolor on nearly smooth ivory cotton paper, muted grey lilac and sage green, soft graphite shadows, diffuse window lighting. Subject: botanically accurate Lavandula angustifolia sprig, narrow opposite grey-green leaves, tiny lilac flowers in whorls along inflorescences, no large terminal bracts. Refined contemporary herbarium, fine organic details, restrained pigment, no vintage aging. Keep top 18% and bottom 38% empty ivory for later typography; all art within safe margins. No text, letters, numbers, logo, watermark, molecular structures, frames, crystals, smoke, bottles or unrelated plants. One individual image, never collage. Variation 01 Essência: one complete gently diagonal sprig centered in the middle area, elegant herbarium specimen; botanical composition occupies about 40% of visual area. This establishes the consistent visual language for a five-image series."
+    },
+    {
+      "file": "../images/lavanda-02-anatomia.png",
+      "width": 941,
+      "height": 1672,
+      "prompt": "Use case: scientific-educational. Generate one premium botanical olfactory atlas illustration, portrait exact 9:16, ideally 1080x1920. Contemporary naturalistic fine watercolor on nearly smooth ivory cotton paper, muted grey lilac and sage green, soft graphite shadows, diffuse window lighting. Subject: botanically accurate Lavandula angustifolia sprig, narrow opposite grey-green leaves, tiny lilac flowers in whorls along inflorescences, no large terminal bracts. Refined contemporary herbarium, fine organic details, restrained pigment, no vintage aging. Keep top 18% and bottom 38% empty ivory for later typography; all art within safe margins. No text, letters, numbers, logo, watermark, molecular structures, frames, crystals, smoke, bottles or unrelated plants. One individual image, never collage. Input image: style reference only, preserve its exact ivory paper, watercolor technique, muted palette and lighting in a new individual composition. Anatomia: retain a central lavender sprig and add exactly one enlarged individual lavender flower detail alongside it, no labels, no molecular structures or arrows. Keep art compact in upper middle, bottom 38% completely empty."
+    },
+    {
+      "file": "../images/lavanda-03-harmonias.png",
+      "width": 941,
+      "height": 1672,
+      "prompt": "Use case: scientific-educational. Generate one premium botanical olfactory atlas illustration, portrait exact 9:16, ideally 1080x1920. Contemporary naturalistic fine watercolor on nearly smooth ivory cotton paper, muted grey lilac and sage green, soft graphite shadows, diffuse window lighting. Subject: botanically accurate Lavandula angustifolia sprig, narrow opposite grey-green leaves, tiny lilac flowers in whorls along inflorescences, no large terminal bracts. Refined contemporary herbarium, fine organic details, restrained pigment, no vintage aging. Keep top 18% and bottom 38% empty ivory for later typography; all art within safe margins. No text, letters, numbers, logo, watermark, molecular structures, frames, crystals, smoke, bottles or unrelated plants. One individual image, never collage. Input image: style reference only, preserve its exact ivory paper, watercolor technique, muted palette and lighting in a new individual composition. Harmonias: narrow upright lavender sprig exactly in center, four spacious empty lateral areas for future text and empty lower band. No companion plants, no visible boxes or connector lines."
+    },
+    {
+      "file": "../images/lavanda-04-atmosfera.png",
+      "width": 941,
+      "height": 1672,
+      "prompt": "Use case: scientific-educational. Generate one premium botanical olfactory atlas illustration, portrait exact 9:16, ideally 1080x1920. Contemporary naturalistic fine watercolor on nearly smooth ivory cotton paper, muted grey lilac and sage green, soft graphite shadows, diffuse window lighting. Subject: botanically accurate Lavandula angustifolia sprig, narrow opposite grey-green leaves, tiny lilac flowers in whorls along inflorescences, no large terminal bracts. Refined contemporary herbarium, fine organic details, restrained pigment, no vintage aging. Keep top 18% and bottom 38% empty ivory for later typography; all art within safe margins. No text, letters, numbers, logo, watermark, molecular structures, frames, crystals, smoke, bottles or unrelated plants. One individual image, never collage. Input image: style reference only, preserve its exact ivory paper, watercolor technique, muted palette and lighting in a new individual composition. Atmosfera: delicate lavender sprig with a very small subordinate piece of raw linen and soft diffuse shadow. Spacious negative space, no landscape. Keep illustration in upper middle and bottom 38% completely empty."
+    },
+    {
+      "file": "../images/lavanda-05-uso.png",
+      "width": 941,
+      "height": 1672,
+      "prompt": "Use case: scientific-educational. Generate one premium botanical olfactory atlas illustration, portrait exact 9:16, ideally 1080x1920. Contemporary naturalistic fine watercolor on nearly smooth ivory cotton paper, muted grey lilac and sage green, soft graphite shadows, diffuse window lighting. Subject: botanically accurate Lavandula angustifolia sprig, narrow opposite grey-green leaves, tiny lilac flowers in whorls along inflorescences, no large terminal bracts. Refined contemporary herbarium, fine organic details, restrained pigment, no vintage aging. Keep top 18% and bottom 38% empty ivory for later typography; all art within safe margins. No text, letters, numbers, logo, watermark, molecular structures, frames, crystals, smoke, bottles or unrelated plants. One individual image, never collage. Input image: style reference only, preserve its exact ivory paper, watercolor technique, muted palette and lighting in a new individual composition. Uso: compact upright lavender sprig, smaller than reference, occupying only the upper central area between 20% and 52% of canvas height. Entire lower half completely empty ivory for five future text modules. No bottles, medical icons or use demonstrations."
+    }
+  ],
+  "status": "historical",
+  "note": "Registro histórico preservado. Diretriz vigente: cards finais PNG 3:4 em 2880 × 3840 px; assets botânicos PNG transparentes com enquadramento livre e resolução suficiente. Este registro não comprova atendimento ao padrão atual."
+}

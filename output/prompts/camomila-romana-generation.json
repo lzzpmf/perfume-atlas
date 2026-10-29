@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "camomila-romana",
+    "asset": "output/images/camomila-romana-transparent.png",
+    "tool": "built-in imagegen",
+    "transparent_background": true,
+    "prompt": "Create a botanical specimen plate cutout: THREE detached Roman chamomile (Chamaemelum nobile) FLOWER HEADS ONLY, no leaves, no foliage, no branching plant. Three small daisy-like capitula arranged in a loose graceful triangular composition, one front view, one three-quarter view, one side view, with only very short bare pedicels. Ivory white narrow ray florets surrounding domed golden yellow discs of tiny tubular florets. The flower heads are the extracted plant part. Accurate refined naturalistic watercolor with fine pencil details, contemporary scientific herbarium, subtle pigment texture only inside flowers. Restrained cream and soft yellow, muted green only on tiny calyx and short pedicels. Soft diffuse light. Entire three specimens intact, generous transparent 10 percent margins. True transparent RGBA background, no paper, no ground, no shadow, no rectangle or checkerboard. NO LEAVES whatsoever. No lettering, no logo, no frame, no bottles. Highest native resolution for an independent botanical asset used in 2880 x 3840 portrait editorial card."
+  }
+]

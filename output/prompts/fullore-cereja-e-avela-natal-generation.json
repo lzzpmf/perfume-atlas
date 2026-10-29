@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-28",
+  "tool": "image_gen.imagegen",
+  "transparent_background": true,
+  "prompt": "Use case: product-mockup. Generate a premium photorealistic generic home fragrance spray bottle concept, small 120 ml proportions, isolated on REAL transparent alpha background. Straight front elevation, symmetric centered bottle, entire object visible with generous transparent margin. Cylindrical clear subtly warm glass bottle, pale champagne liquid, rounded shoulders, dark forest green fine mist spray pump with short nozzle, no cap hiding sprayer. A modest burgundy satin ribbon tied around neck, ends short and contained. Large plain ivory rectangular paper label on front, completely blank with no text or logos, will be typeset separately. Refined Christmas special, quiet luxury, no gold excess. Soft studio lighting, precise glass edges and natural highlights, readable transparent glass with no scenery inside. Bottle fills about 75 percent height and 45 percent width of canvas, centered. No cherries, nuts, leaves, background, floor, shadow on ground, checkerboard, text, numbers, watermark, logos, ornament or snow. This is a generic illustrative product mockup, not an existing real package. Output PNG true alpha at high detail for placement on 2880x3840 editorial cards.",
+  "selectedAsset": "output/images/fullore-cereja-e-avela-natal-produto-transparent.png",
+  "note": "Frasco conceitual meramente ilustrativo. Logo original e textos aplicados posteriormente em HTML."
+}

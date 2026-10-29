@@ -1,0 +1,52 @@
+[
+  {
+    "file": "lavanda-01-essencia-final.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 4,
+    "layoutValidated": true,
+    "status": "historical",
+    "currentGuidelinesCompliant": false,
+    "note": "Exporta??o anterior ? diretriz de ilustra??o transparente e logo Fullore obrigat?rio."
+  },
+  {
+    "file": "lavanda-02-anatomia-final.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 4,
+    "layoutValidated": true,
+    "status": "historical",
+    "currentGuidelinesCompliant": false,
+    "note": "Exporta??o anterior ? diretriz de ilustra??o transparente e logo Fullore obrigat?rio."
+  },
+  {
+    "file": "lavanda-03-harmonias-final.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 5,
+    "layoutValidated": true,
+    "status": "historical",
+    "currentGuidelinesCompliant": false,
+    "note": "Exporta??o anterior ? diretriz de ilustra??o transparente e logo Fullore obrigat?rio."
+  },
+  {
+    "file": "lavanda-04-atmosfera-final.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 4,
+    "layoutValidated": true,
+    "status": "historical",
+    "currentGuidelinesCompliant": false,
+    "note": "Exporta??o anterior ? diretriz de ilustra??o transparente e logo Fullore obrigat?rio."
+  },
+  {
+    "file": "lavanda-05-uso-final.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 5,
+    "layoutValidated": true,
+    "status": "historical",
+    "currentGuidelinesCompliant": false,
+    "note": "Exporta??o anterior ? diretriz de ilustra??o transparente e logo Fullore obrigat?rio."
+  }
+]

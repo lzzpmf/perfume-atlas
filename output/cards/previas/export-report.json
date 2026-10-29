@@ -1,0 +1,52 @@
+[
+  {
+    "file": "lavanda-01-essencia-preview.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 4,
+    "layoutValidated": true,
+    "status": "preview",
+    "transparent": false,
+    "logoLoaded": false
+  },
+  {
+    "file": "lavanda-02-anatomia-preview.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 4,
+    "layoutValidated": true,
+    "status": "preview",
+    "transparent": false,
+    "logoLoaded": false
+  },
+  {
+    "file": "lavanda-03-harmonias-preview.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 5,
+    "layoutValidated": true,
+    "status": "preview",
+    "transparent": false,
+    "logoLoaded": false
+  },
+  {
+    "file": "lavanda-04-atmosfera-preview.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 4,
+    "layoutValidated": true,
+    "status": "preview",
+    "transparent": false,
+    "logoLoaded": false
+  },
+  {
+    "file": "lavanda-05-uso-preview.png",
+    "width": 1080,
+    "height": 1920,
+    "modules": 5,
+    "layoutValidated": true,
+    "status": "preview",
+    "transparent": false,
+    "logoLoaded": false
+  }
+]
